@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://namaridama-p.github.io/sitemap.xml
